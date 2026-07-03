@@ -12,61 +12,39 @@ Building intelligent AI systems that solve real-world business problems using La
 
 </div>
 
-🚀 About Me
+🚀 About Me:
+
 💼 AI/ML Engineer with experience building enterprise AI solutions
 🤖 Passionate about Generative AI, Large Language Models, and Agentic AI
+
 🔍 Experienced in building RAG pipelines, semantic search, and document intelligence systems
+
 🧠 Interested in Natural Language Processing, Machine Learning, and Applied AI
+
 ☁️ Building scalable AI applications on Microsoft Azure
+
 📚 Always learning the latest advancements in AI and Machine Learning
-🛠️ Tech Stack
-Languages
 
+💡 What I Work On:
 
-
-
-
-
-Artificial Intelligence & Machine Learning
-Machine Learning
-Deep Learning
-Natural Language Processing (NLP)
-Generative AI
-Large Language Models (LLMs)
-Retrieval-Augmented Generation (RAG)
-Prompt Engineering
-Semantic Search
-Information Extraction
-Named Entity Recognition (NER)
-Document Intelligence
-Frameworks & Libraries
-TensorFlow
-PyTorch
-Scikit-learn
-Pandas
-NumPy
-LangChain
-Hugging Face Transformers
-Cloud & Databases
-Microsoft Azure
-Azure AI Services
-Azure Cosmos DB
-Vector Databases
-Tools
-Git & GitHub
-VS Code
-Jupyter Notebook
-Docker
-💡 What I Work On
 🤖 Enterprise AI Assistants
+
 📄 Intelligent Document Processing
+
 🔍 Semantic Search Applications
+
 📚 Retrieval-Augmented Generation (RAG)
+
 🧠 Multi-Agent AI Systems
+
 💬 Conversational AI
+
 📊 Machine Learning Pipelines
+
 ⚡ AI Workflow Automation
+
 📌 Featured Projects
+
 🤖 Enterprise RAG System
 
 Designed and deployed an end-to-end Retrieval-Augmented Generation pipeline on Microsoft Azure with vector search and LLM inference to improve enterprise knowledge retrieval.
@@ -88,8 +66,6 @@ Created a deep learning-based image captioning system using Computer Vision and 
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=lokesh-narayanan-18&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=lokesh-narayanan-18&theme=tokyonight&hide_border=true"/>
 
 </p>
 
