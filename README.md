@@ -16,32 +16,22 @@ Building intelligent AI systems that solve real-world business problems using La
 
 💼 AI/ML Engineer with experience building enterprise AI solutions
 🤖 Passionate about Generative AI, Large Language Models, and Agentic AI
-
 🔍 Experienced in building RAG pipelines, semantic search, and document intelligence systems
-
 🧠 Interested in Natural Language Processing, Machine Learning, and Applied AI
-
 ☁️ Building scalable AI applications on Microsoft Azure
-
 📚 Always learning the latest advancements in AI and Machine Learning
 
 💡 What I Work On:
 
 🤖 Enterprise AI Assistants
-
 📄 Intelligent Document Processing
-
 🔍 Semantic Search Applications
-
 📚 Retrieval-Augmented Generation (RAG)
-
 🧠 Multi-Agent AI Systems
-
 💬 Conversational AI
-
 📊 Machine Learning Pipelines
-
 ⚡ AI Workflow Automation
+
 
 📌 Featured Projects
 
