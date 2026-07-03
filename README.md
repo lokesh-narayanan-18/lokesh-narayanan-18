@@ -51,23 +51,17 @@ Developed agent-based AI workflows to automate enterprise processes, reducing ma
 
 Created a deep learning-based image captioning system using Computer Vision and NLP techniques with transfer learning and sequence-to-sequence architectures.
 
-📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lokesh-narayanan-18&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-narayanan-18&layout=compact&theme=tokyonight&hide_border=true"/> </p>
 
 🌱 Currently Exploring
+
 Agentic AI
 AI Agents & Tool Calling
 Advanced RAG Architectures
 MLOps
 Evaluation of LLM Applications
 AI Workflow Automation
+
+
 🤝 Let's Connect
 
 I'm always interested in collaborating on:
