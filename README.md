@@ -4,33 +4,29 @@ Hi there 👋, I'm Lokesh Narayanan
 
 AI/ML Engineer | Generative AI | NLP | RAG Systems | Azure
 
-Building intelligent AI systems that solve real-world business problems using Large Language Models, Retrieval-Augmented Generation (RAG), and Machine Learning.
-
-
-
-
+Developing intelligent AI systems to address real-world business challenges by utilizing Large Language Models, Retrieval-Augmented Generation (RAG), and Machine Learning.
 
 </div>
 
 🚀 About Me:
 
-💼 AI/ML Engineer with experience building enterprise AI solutions
-🤖 Passionate about Generative AI, Large Language Models, and Agentic AI
-🔍 Experienced in building RAG pipelines, semantic search, and document intelligence systems
-🧠 Interested in Natural Language Processing, Machine Learning, and Applied AI
-☁️ Building scalable AI applications on Microsoft Azure
-📚 Always learning the latest advancements in AI and Machine Learning
+- 💼 AI/ML Engineer with experience in developing enterprise AI solutions  
+- 🤖 Passionate about Generative AI, Large Language Models, and Agentic AI  
+- 🔍 Skilled in building Retrieval-Augmented Generation (RAG) pipelines, semantic search, and document intelligence systems  
+- 🧠 Interested in Natural Language Processing, Machine Learning, and Applied AI  
+- ☁️ Developing scalable AI applications on Microsoft Azure  
+- 📚 Committed to staying updated on the latest advancements in AI and Machine Learning  
 
 💡 What I Work On:
 
-🤖 Enterprise AI Assistants
-📄 Intelligent Document Processing
-🔍 Semantic Search Applications
-📚 Retrieval-Augmented Generation (RAG)
-🧠 Multi-Agent AI Systems
-💬 Conversational AI
-📊 Machine Learning Pipelines
-⚡ AI Workflow Automation
+🤖 AI for Enterprises  
+📄 Smart Document Processing  
+🔍 Advanced Semantic Search  
+📚 Enhanced Retrieval-Augmented Generation (RAG)  
+🧠 Collaborative Multi-Agent AI Systems  
+💬 Interactive Conversational AI  
+📊 Optimized Machine Learning Pipelines  
+⚡ Streamlined AI Workflow Automation
 
 
 📌 Featured Projects
@@ -45,40 +41,17 @@ Built scalable pipelines to extract, preprocess, and analyze structured and unst
 
 🧠 Multi-Agent AI Platform
 
-Developed agent-based AI workflows to automate enterprise processes, reducing manual effort and improving operational efficiency.
+Developed agent-based AI work**🤖 Enterprise RAG System**  
+Designed and deployed a comprehensive Retrieval-Augmented Generation (RAG) pipeline on Microsoft Azure that incorporates vector search and LLM inference to enhance enterprise knowledge retrieval.
 
-🖼️ Image Caption Generation
+**📄 Intelligent Document Processing**  
+Developed scalable pipelines for extracting, preprocessing, and analyzing both structured and unstructured information from large collections of PDFs for AI-powered applications.
 
-Created a deep learning-based image captioning system using Computer Vision and NLP techniques with transfer learning and sequence-to-sequence architectures.
+**🧠 Multi-Agent AI Platform**  
+Created agent-based AI workflows to automate enterprise processes, reducing manual effort and improving operational efficiency.
 
-
-🌱 Currently Exploring
-
-Agentic AI
-AI Agents & Tool Calling
-Advanced RAG Architectures
-MLOps
-Evaluation of LLM Applications
-AI Workflow Automation
-
-
-🤝 Let's Connect
-
-I'm always interested in collaborating on:
-
-Artificial Intelligence
-Machine Learning
-Natural Language Processing
-Generative AI
-Open Source AI Projects
-
-📫 Email: lokesh.mass@outlook.com
-
-💼 LinkedIn: https://www.linkedin.com/in/lokesh-narayanan-4392931a5/
-
-<div align="center">
-
-⭐ If you like my work, consider starring my repositories!
+**🖼️ Image Caption Generation**  
+Implemented a deep learning-based image captioning system utilizing computer vision and natural language processing techniques, applying transfer learning and sequence-to-sequence architectures.ou like my work, consider starring my repositories!
 
 "Turning ideas into intelligent AI solutions."
 
